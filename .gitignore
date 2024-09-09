@@ -61,3 +61,5 @@ examples/example_sdl2_opengl3/example_sdl2_opengl3
 examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
 /bin/Debug-windows-x86_64/ImGui
 /bin-int/Debug-windows-x86_64/ImGui
+/bin-int/Release-windows-x86_64/imgui
+/bin/Release-windows-x86_64/imgui
